@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\AllUp\Allup\Allup\bin\Debug\net5.0\Allup.exe
+C:\Users\user\Desktop\AllUp\Allup\Allup\bin\Debug\net5.0\Allup.deps.json
+C:\Users\user\Desktop\AllUp\Allup\Allup\bin\Debug\net5.0\Allup.runtimeconfig.json
+C:\Users\user\Desktop\AllUp\Allup\Allup\bin\Debug\net5.0\Allup.runtimeconfig.dev.json
+C:\Users\user\Desktop\AllUp\Allup\Allup\bin\Debug\net5.0\Allup.dll
+C:\Users\user\Desktop\AllUp\Allup\Allup\bin\Debug\net5.0\Allup.pdb
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.AssemblyInfo.cs
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.dll
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\refint\Allup.dll
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.pdb
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\Allup.genruntimeconfig.cache
+C:\Users\user\Desktop\AllUp\Allup\Allup\obj\Debug\net5.0\ref\Allup.dll

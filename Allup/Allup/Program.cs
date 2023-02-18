@@ -6,7 +6,9 @@ namespace Allup
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = 14;
+            int b = 13;
+            Console.WriteLine(a+b);
         }
     }
 }
